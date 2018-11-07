@@ -1,1 +1,1 @@
-Word hashing implementation using struct and ADT Linked List.
+Word hashing implementation using struct and linked list ADT.
